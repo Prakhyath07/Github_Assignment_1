@@ -6,4 +6,6 @@ numpy
 evidently
 matplotlib
 dill
+tensorflow
+seaborn
 -e .
