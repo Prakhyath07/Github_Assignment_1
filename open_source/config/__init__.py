@@ -1,1 +1,2 @@
 print("reject)"
+print("stash")
